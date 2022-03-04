@@ -1,0 +1,51 @@
+
+
+ /$$$$$$$$ /$$$$$$  /$$$$$$ /$$$$$$$ /$$   /$$/$$$$$$$         /$$$$$$
+| $$_____//$$__  $$/$$__  $| $$__  $| $$  | $| $$__  $$       /$$__  $$
+| $$     | $$  \__| $$  \__| $$  \ $| $$  | $| $$  \ $$      |__/  \ $$
+| $$$$$  | $$ /$$$| $$ /$$$| $$$$$$$| $$$$$$$| $$$$$$$/         /$$$$$/
+| $$__/  | $$|_  $| $$|_  $| $$____/| $$__  $| $$____/         |___  $$
+| $$     | $$  \ $| $$  \ $| $$     | $$  | $| $$             /$$  \ $$
+| $$$$$$$|  $$$$$$|  $$$$$$| $$     | $$  | $| $$            |  $$$$$$/
+|________/\______/ \______/|__/     |__/  |__|__/             \______/
+
+
+
+Framework basado en MVC desarrollado por @eggcode39(Github)
+Requerimientos:
+Usar minimo PHP 7.0
+
+Base de datos:
+La codificación siempre debe ser utf8_unicode_ci
+Las tablas llevaran nombre en plural, y los campos de la tabla en singular
+Cada campo (a excepción del id y claves foraneas) se nombraran de la siguiente forma: (nombre_singular_tabla)_campo
+Las tablas siempre deben estar en InnoDB
+
+Controladores:
+Deben comenzar con (nombre) + Controller.php
+Deben dividirse en 2 partes: Vistas y funciones
+Las Vistas siempre deben devolver un html o .php visible
+Las funciones siempre deben devolver un JSON.
+
+Modelo:
+Deben comenzar según el nombre del controlador que hacen referencia sin la palabra controller (Ejemplo: Admin.php)
+En su mayoria, deben conectar siempre a la base de datos
+Deben devolver un estado 0 o 1, true o false o un array de datos
+
+Vistas:
+Deben separarse en carpetas en refencia al controlador donde son usadas, y además deben llevar siempre el nombre
+de la función en la cual son usadas.
+
+Los accesos a base de datos se definen en core/globals.php
+Al definir _MANTENIMIENTO_WS como 1, quedan inhabilitados los dispositivos que consuman ws, más no
+para los navegadores web
+Para testear ws en modo de mantenimiento, es necesario pasar el parametro $_GET['test'] = true
+Ejemplo: http://localhost/eggPHP3/api.php?c=Archivo&a=subir&test=true
+El nombre del parametro $_GET['test'] puede y debe variar por cuestiones de seguridad
+
+Al definir _MANTENIMIENTO_WEB como 1, el sitio web mostrar una pantalla de mantenimiento sea de donde sea que este sea accedido
+Para acceder al sistema en modo mantenimiento, es necesario acceder a la siguiente vista:
+http://localhost/eggPHP3/index.php?c=Login&a=inicio&mod=superadmin
+El nombre del parametro $_GET['mod'] y su clave pueden y deben variar por cuestion de seguridad
+
+Cualquier otra consulta ponerse en contacto a cesarjose@bufeotec.com

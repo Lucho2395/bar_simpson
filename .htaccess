@@ -1,0 +1,17 @@
+RewriteEngine On
+
+RewriteRule ^styles/(.+)?$ styles/$1 [NC,L]
+RewriteRule ^media/(.+)?$ media/$1 [NC,L]
+RewriteRule ^libs/(.+)?$ libs/$1 [NC,L]
+
+RewriteRule ^api/(\w+)/?$ api.php?c=$1
+RewriteRule ^api/(\w+)/(\w+)/?$ api.php?c=$1&a=$2
+RewriteRule ^api/(\w+)/(\w+)/([a-zA-Z0-9-]*)/?$ api.php?c=$1&a=$2&id=$3
+RewriteRule ^api/(.+)?$ api.php
+
+RewriteRule ^(\w+)/?$ index.php?c=$1
+RewriteRule ^(\w+)/(\w+)/?$ index.php?c=$1&a=$2
+RewriteRule ^(\w+)/(\w+)/([a-zA-Z0-9-]*)/?$ index.php?c=$1&a=$2&id=$3
+
+#Para depurar
+#&XDEBUG_SESSION_START=PHPSTORM
