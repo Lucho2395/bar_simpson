@@ -1,0 +1,1107 @@
+2022-01-26 09:02:26[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:02:26[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\laultimaconchita\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-01-26 09:02:37[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:02:37[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\laultimaconchita\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-01-26 09:02:38[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:02:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-01-26 09:03:56[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:03:57[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:03:58[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-01-26 09:19:43[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:19:43[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\laultimaconchita\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-01-26 09:19:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:19:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\laultimaconchita\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-01-26 09:19:55[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:19:55[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-01-26 09:20:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:20:12[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:20:16[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:20:24[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:20:28[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:20:29[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\negocio\usuarios_sucursal.php: 77[MESSAGGE]Trying to get property 'sucursal_nombre' of non-object
+
+2022-01-26 09:24:40[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:24:45[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:24:52[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:24:53[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-01-26 09:25:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:25:09[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:25:33[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:25:36[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:25:45[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:25:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:25:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:25:55[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-01-26 09:26:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 562[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 562[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 563[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 563[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 564[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 564[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 565[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 565[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 566[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 566[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 571[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 571[MESSAGGE]Trying to get property 'person_afiliac' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 577[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 577[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 578[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 578[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 579[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 579[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 580[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 580[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 581[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 581[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 582[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 582[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 583[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 583[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 584[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 584[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 585[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 585[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 586[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 586[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 587[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 587[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 588[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 588[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 589[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 589[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 590[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 590[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 591[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 591[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 592[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 592[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 593[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 593[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 594[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 594[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 595[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 595[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 600[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 600[MESSAGGE]Trying to get property 'person_number_account' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 601[MESSAGGE]Undefined variable: id
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 607[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 607[MESSAGGE]Trying to get property 'persona_cuspp' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 611[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 611[MESSAGGE]Trying to get property 'persona_afiliac' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 617[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 617[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 618[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 618[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 619[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 619[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 620[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 620[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 621[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 621[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 622[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 622[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 623[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 623[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 624[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 624[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 625[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 625[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 626[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 626[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 627[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 627[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 628[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 628[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 629[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 629[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 630[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 630[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 631[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 631[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 632[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 632[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 633[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 633[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 634[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 634[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 635[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 635[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 640[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:26:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 640[MESSAGGE]Trying to get property 'persona_account_cts' of non-object
+
+2022-01-26 09:28:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:28:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\RHumanosController.php: 1061[MESSAGGE]Undefined index: persona_number_account
+
+2022-01-26 09:28:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\models\RHumanos.php: 392[MESSAGGE]Undefined property: RHumanos::$persona_empleado
+
+2022-01-26 09:28:03[UTC -5] [ip] 192.168.1.4 [lugar] RHumanos|guardar_personal [texto] SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'persona_nacimiento' at row 1
+2022-01-26 09:29:17[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:29:17[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\RHumanosController.php: 1061[MESSAGGE]Undefined index: persona_number_account
+
+2022-01-26 09:29:17[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\models\RHumanos.php: 392[MESSAGGE]Undefined property: RHumanos::$persona_empleado
+
+2022-01-26 09:29:19[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:29:28[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:29:28[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:29:28[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:29:28[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:29:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:29:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:29:58[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:30:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:30:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:30:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:30:03[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:30:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:31:24[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:31:31[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:31:42[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:31:43[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\negocio\usuarios_sucursal.php: 77[MESSAGGE]Trying to get property 'sucursal_nombre' of non-object
+
+2022-01-26 09:32:10[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:32:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:32:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\negocio\usuarios_sucursal.php: 77[MESSAGGE]Trying to get property 'sucursal_nombre' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\LoginController.php: 144[MESSAGGE]Undefined property: stdClass::$id_persona
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\LoginController.php: 146[MESSAGGE]Undefined property: stdClass::$usuario_email
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:20[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:22[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:32:34[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:32:34[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:32:34[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:32:34[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\periodolaboral.php: 73[MESSAGGE]Undefined property: stdClass::$person_blacklist
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 562[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 562[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 563[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 563[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 564[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 564[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 565[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 565[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 566[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 566[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 571[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 571[MESSAGGE]Trying to get property 'person_afiliac' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 577[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 577[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 578[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 578[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 579[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 579[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 580[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 580[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 581[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 581[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 582[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 582[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 583[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 583[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 584[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 584[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 585[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 585[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 586[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 586[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 587[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 587[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 588[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 588[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 589[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 589[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 590[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 590[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 591[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 591[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 592[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 592[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 593[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 593[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 594[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 594[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 595[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 595[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 600[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 600[MESSAGGE]Trying to get property 'person_number_account' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 601[MESSAGGE]Undefined variable: id
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 607[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 607[MESSAGGE]Trying to get property 'persona_cuspp' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 611[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 611[MESSAGGE]Trying to get property 'persona_afiliac' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 617[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 617[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 618[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 618[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 619[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 619[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 620[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 620[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 621[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 621[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 622[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 622[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 623[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 623[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 624[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 624[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 625[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 625[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 626[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 626[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 627[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 627[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 628[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 628[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 629[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 629[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 630[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 630[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 631[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 631[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 632[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 632[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 633[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 633[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 634[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 634[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 635[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 635[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 640[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:32:39[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 640[MESSAGGE]Trying to get property 'persona_account_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 562[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 562[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 563[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 563[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 564[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 564[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 565[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 565[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 566[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 566[MESSAGGE]Trying to get property 'persona_afp' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 571[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 571[MESSAGGE]Trying to get property 'person_afiliac' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 577[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 577[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 578[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 578[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 579[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 579[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 580[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 580[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 581[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 581[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 582[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 582[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 583[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 583[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 584[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 584[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 585[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 585[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 586[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 586[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 587[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 587[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 588[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 588[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 589[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 589[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 590[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 590[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 591[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 591[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 592[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 592[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 593[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 593[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 594[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 594[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 595[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 595[MESSAGGE]Trying to get property 'person_bank' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 600[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 600[MESSAGGE]Trying to get property 'person_number_account' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 601[MESSAGGE]Undefined variable: id
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 607[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 607[MESSAGGE]Trying to get property 'persona_cuspp' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 611[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 611[MESSAGGE]Trying to get property 'persona_afiliac' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 617[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 617[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 618[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 618[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 619[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 619[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 620[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 620[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 621[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 621[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 622[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 622[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 623[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 623[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 624[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 624[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 625[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 625[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 626[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 626[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 627[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 627[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 628[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 628[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 629[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 629[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 630[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 630[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 631[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 631[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 632[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 632[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 633[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 633[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 634[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 634[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 635[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 635[MESSAGGE]Trying to get property 'persona_bank_cts' of non-object
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 640[MESSAGGE]Undefined variable: person
+
+2022-01-26 09:35:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\humanos\gestion_personal.php: 640[MESSAGGE]Trying to get property 'persona_account_cts' of non-object
+
+2022-01-26 09:36:57[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:36:57[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\RHumanosController.php: 1061[MESSAGGE]Undefined index: persona_number_account
+
+2022-01-26 09:36:57[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\models\RHumanos.php: 392[MESSAGGE]Undefined property: RHumanos::$persona_empleado
+
+2022-01-26 09:36:58[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:37:04[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:37:12[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:37:15[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:37:19[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:37:20[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\negocio\usuarios_sucursal.php: 77[MESSAGGE]Trying to get property 'sucursal_nombre' of non-object
+
+2022-01-26 09:37:28[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:37:29[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:37:29[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\negocio\usuarios_sucursal.php: 77[MESSAGGE]Trying to get property 'sucursal_nombre' of non-object
+
+2022-01-26 09:37:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:37:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\negocio\usuarios_sucursal.php: 77[MESSAGGE]Trying to get property 'sucursal_nombre' of non-object
+
+2022-01-26 09:38:15[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:38:37[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:38:40[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:39:47[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:39:50[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\LoginController.php: 144[MESSAGGE]Undefined property: stdClass::$id_persona
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\LoginController.php: 146[MESSAGGE]Undefined property: stdClass::$usuario_email
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:00[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:01[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:01[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:01[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:01[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:01[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:02[UTC -5] [ip] 192.168.1.36 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\controllers\MesaController.php: 247[MESSAGGE]Trying to get property 'id_comanda' of non-object
+
+2022-01-26 09:40:20[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:40:20[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\egresos\gastos_personal.php: 346[MESSAGGE]Undefined variable: roles
+
+2022-01-26 09:40:20[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\laultimaconchita\app\view\egresos\gastos_personal.php: 346[MESSAGGE]Invalid argument supplied for foreach()
+
+2022-01-26 09:40:20[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\egresos\gastos_personal.php: 521[MESSAGGE]Undefined variable: parametro
+
+2022-01-26 09:40:20[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\egresos\gastos_personal.php: 557[MESSAGGE]Undefined variable: gasto_personal
+
+2022-01-26 09:40:20[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\laultimaconchita\app\view\egresos\gastos_personal.php: 557[MESSAGGE]Invalid argument supplied for foreach()
+
+2022-01-26 09:41:17[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:41:24[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:41:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:41:49[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 204[MESSAGGE]Undefined variable: total_soles
+
+2022-01-26 09:41:56[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:41:56[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:41:56[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:41:56[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 61[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 63[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 65[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:11[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 67[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 61[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 63[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 65[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:18[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 67[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 61[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 63[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 65[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 67[MESSAGGE]Undefined variable: tipo_venta
+
+2022-01-26 09:42:34[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:42:34[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:34[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:34[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:42:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:44:19[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:45:05[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:45:05[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\pedido\detalle_pedido.php: 16[MESSAGGE]Undefined variable: parametro
+
+2022-01-26 09:45:05[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:45:06[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:45:08[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:45:12[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:45:12[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\pedido\detalle_pedido.php: 16[MESSAGGE]Undefined variable: parametro
+
+2022-01-26 09:45:12[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:45:13[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:45:15[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:46:46[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:48:17[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:49:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:51:19[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:52:50[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:54:21[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:55:29[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:55:29[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:55:29[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:55:29[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:55:37[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:55:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:55:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:55:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:55:48[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:55:52[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:55:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:55:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:55:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:55:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-01-26 09:57:23[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 09:58:54[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 10:00:25[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-01-26 10:01:56[UTC -5] [ip] 192.168.1.4 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\laultimaconchita\core\session.php: 15[MESSAGGE]Undefined index: app
+

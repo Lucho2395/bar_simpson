@@ -23,7 +23,7 @@
                                 <div class="col-lg-6 col-sm-6">
                                     <div class="form-group">
                                         <label class="col-form-label">Precio</label>
-                                        <input type="text" readonly class="form-control" id="comanda_detalle_precio" name="comanda_detalle_precio">
+                                        <input type="text" class="form-control" id="comanda_detalle_precio" name="comanda_detalle_precio">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-sm-6">

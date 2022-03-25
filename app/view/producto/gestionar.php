@@ -309,22 +309,22 @@
                                 </div>
                             </div>
                             <br>
-                                <div class="col-lg-12" style="text-align: center; padding-bottom:5px; "><h2>Precios de Venta</h2></div>
-                                <div class="row">
-                                    <div class="col-lg-2"></div>
-                                    <div class="col-lg-4">
-                                        <div class="form-group">
-                                            <label class="col-form-label">Agregar precio</label>
-                                            <input class="form-control" type="text" id="producto_precio_venta_a" name="producto_precio_venta_a" value="">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3" style="margin-top: 11px">
-                                        <br><button class="btn btn-success" onclick="agregar_precios()"><i class="fa fa-save"></i> Agregar</button>
+                            <div class="col-lg-12" style="text-align: center; padding-bottom:5px; "><h2>Precios de Venta</h2></div>
+                            <div class="row">
+                                <div class="col-lg-2"></div>
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label class="col-form-label">Agregar precio</label>
+                                        <input class="form-control" type="text" id="producto_precio_venta_a" name="producto_precio_venta_a" value="">
                                     </div>
                                 </div>
-                                <div id="tabla" class="table-responsive">
+                                <div class="col-lg-3" style="margin-top: 11px">
+                                    <br><button class="btn btn-success" onclick="agregar_precios()"><i class="fa fa-save"></i> Agregar</button>
+                                </div>
+                            </div>
+                            <div id="tabla" class="table-responsive">
 
-                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -333,6 +333,37 @@
                     <button type="submit" class="btn btn-success" id="btn-editar_producto"><i class="fa fa-save fa-sm text-white-50"></i> Guardar</button>
                 </div>
             </form>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="agregar_stock" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document" style="max-width: 40% !important;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Editar Producto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <div class="row">
+                        <input type="hidden" id="id_receta_modal" name="id_receta_modal">
+                        <div class="col-lg-12">
+                            <h5><span id="nombre_producto_"></span></h5><br>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <input class="form-control" type="text" id="asignar_stock" name="asignar_stock" placeholder="Ingrese Cantidad...">
+                        </div>
+                        <div class="col-lg-3">
+                            <button class="btn btn-success" id="btn_stock" onclick="sumar_stock()"><i class="fa fa-plus"></i>Agregar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+            </div>
         </div>
     </div>
 </div>
@@ -365,38 +396,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal fade" id="agregar_stock" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document" style="max-width: 40% !important;">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Editar Producto</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <div class="container-fluid">
-                    <div class="row">
-                        <input type="hidden" id="id_receta_modal" name="id_receta_modal">
-                        <div class="col-lg-12">
-                            <h5><span id="nombre_producto_"></span></h5><br>
-                        </div>
-
-                        <div class="col-lg-6">
-                            <input class="form-control" type="text" id="asignar_stock" name="asignar_stock" placeholder="Ingrese Cantidad...">
-                        </div>
-                        <div class="col-lg-3">
-                            <button class="btn btn-success" onclick="sumar_stock()"><i class="fa fa-plus"></i>Agregar</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="modal-footer">
             </div>
         </div>
     </div>
@@ -458,6 +457,7 @@
                                         <th>Nombre</th>
                                         <th>Descripción</th>
                                         <th>Precio Venta</th>
+                                        <th>Stock</th>
                                         <th>Foto</th>
                                         <th>Acción</th>
                                     </tr>
@@ -477,9 +477,11 @@
                                             $estilo = "style=\"background-color: #FF6B70\"";
                                         }
 
+                                        $stock = "-";
                                         $validar_solo_una_receta = $this->producto->jalar_recurso_sede_desde_receta_todo($ar->id_receta);
                                         if(count($validar_solo_una_receta) == 1){
                                             $entr = true;
+                                            $stock = $validar_solo_una_receta[0]->recurso_sede_stock;
                                         }else{
                                             $entr = false;
                                         }
@@ -488,10 +490,11 @@
                                             <td><?= $a;?></td>
                                             <td>
                                                 <a style="color: blue; cursor: pointer;" class="button" data-toggle="modal" data-target="#ver_general" onclick="llenar_modal(<?= $ar->id_producto;?>)">
-                                                <?= $ar->producto_nombre;?>
+                                                    <?= $ar->producto_nombre;?>
                                             </td>
                                             <td><?= $ar->producto_descripcion;?></td>
                                             <td><?= $ar->producto_precio_venta;?></td>
+                                            <td><?= $stock;?></td>
                                             <td><img class="rounded" src="<?= $foto;?>" alt="Foto de <?php echo $ar->producto_nombre;?>" width="120"></td>
                                             <td>
                                                 <a class="btn btn-success" onclick="editar_producto(<?= $ar->id_producto?>,'<?= $ar->id_receta?>','<?= $ar->id_grupo?>','<?= $ar->id_producto_familia?>','<?= $ar->producto_nombre?>','<?= $ar->id_unidad_medida?>','<?= $ar->producto_precio_codigoafectacion?>','<?= $ar->producto_descripcion?>','<?= $ar->producto_precio_venta?>','<?= $ar->producto_foto?>')" data-target="#editarproducto" data-toggle="modal" title='Editar'><i class='fa fa-edit text-white editar margen'></i></a>

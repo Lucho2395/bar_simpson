@@ -138,7 +138,7 @@ class ClienteController
                 }
 
                 if($result == 1){
-                   $dato_ultimo_cliente = $this->cliente->jalar_ultimo_cliente();
+                    $dato_ultimo_cliente = $this->cliente->jalar_ultimo_cliente();
                 }
 
             }else {
@@ -247,40 +247,49 @@ class ClienteController
         try {
             $ok_data = true;
             $dni = $_POST['numero_dni'];
-            /*$ws = "https://dni.optimizeperu.com/api/persons/$dni?format=json";
+            $buscar_cliente = $this->cliente->listar_cliente_x_numero($_POST['numero_dni']);
+            if(isset($buscar_cliente->id_cliente)){
+                $dni	= $buscar_cliente->cliente_numero;
+                $nombre = $buscar_cliente->cliente_nombre;
+                $paterno = "";
+                $materno = "";
+                $direccion = $buscar_cliente->cliente_direccion;
+            } else {
+                /*$ws = "https://dni.optimizeperu.com/api/persons/$dni?format=json";
+                $header = array();
 
-            $header = array();
+                $ch = curl_init();
+                curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,1);
+                curl_setopt($ch,CURLOPT_URL,$ws);
+                curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
+                curl_setopt($ch,CURLOPT_HTTPAUTH,CURLAUTH_ANY);
+                curl_setopt($ch,CURLOPT_TIMEOUT,30);
+                curl_setopt($ch,CURLOPT_HTTPHEADER,$header);
+                //para ejecutar los procesos de forma local en windows
+                //enlace de descarga del cacert.pem https://curl.haxx.se/docs/caextract.html
+                curl_setopt($ch, CURLOPT_CAINFO, dirname(__FILE__)."/../models/cacert.pem");
 
-            $ch = curl_init();
-            curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,1);
-            curl_setopt($ch,CURLOPT_URL,$ws);
-            curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
-            curl_setopt($ch,CURLOPT_HTTPAUTH,CURLAUTH_ANY);
-            curl_setopt($ch,CURLOPT_TIMEOUT,30);
-            curl_setopt($ch,CURLOPT_HTTPHEADER,$header);
-            //para ejecutar los procesos de forma local en windows
-            //enlace de descarga del cacert.pem https://curl.haxx.se/docs/caextract.html
-            curl_setopt($ch, CURLOPT_CAINFO, dirname(__FILE__)."/../models/cacert.pem");
+                $datos = curl_exec($ch);
+                curl_close($ch);
+                $datos = json_decode($datos);*/
+                $result = json_decode(file_get_contents('https://consultaruc.win/api/dni/'.$dni),true);
 
-            $datos = curl_exec($ch);
-            curl_close($ch);
-            $datos = json_decode($datos);*/
-            $result = json_decode(file_get_contents('https://consultaruc.win/api/dni/'.$dni),true);
+                //var_dump($result);
 
-
-            //var_dump($result);
-
-            $dni	= $result['result']['DNI'];
-            $nombre = $result['result']['Nombre'];
-            $paterno = $result['result']['Paterno'];
-            $materno = $result['result']['Materno'];
-            //echo $result['result']['estado'];
+                $dni	= $result['result']['DNI'];
+                $nombre = $result['result']['Nombre'];
+                $paterno = $result['result']['Paterno'];
+                $materno = $result['result']['Materno'];
+                $direccion = "";
+                //echo $result['result']['estado'];
+            }
 
             $datos = array(
                 'dni' => $dni,
                 'name' => $nombre,
                 'first_name' => $paterno,
                 'last_name' => $materno,
+                'direccion' => $direccion,
             );
 
             //$datos = json_decode($datos);
@@ -304,11 +313,25 @@ class ClienteController
         try {
             $ok_data = true;
             $ruc = $_POST['numero_ruc'];
-            $result = json_decode(file_get_contents('https://consultaruc.win/api/ruc/'.$ruc),true);
+            $cliente = $this->cliente->listar_cliente_x_numero($ruc);
+            if(isset($buscar_cliente->id_cliente)){
+                $razon_social	= $buscar_cliente->cliente_razonsocial;
+                $estado = "";
+                $condicion = "";
+                $direccion = $buscar_cliente->cliente_direccion;
+            } else {
+                $result = json_decode(file_get_contents('https://consultaruc.win/api/ruc/'.$ruc),true);
+
+                $razon_social = $result['result']['razon_social'];
+                $estado = $result['result']['estado'];
+                $condicion = $result['result']['condicion'];
+
+            }
             $datos = array(
-                'razon_social' => $result['result']['razon_social'],
-                'estado' => $result['result']['estado'],
-                'condicion' => $result['result']['condicion'],
+                'razon_social' => $razon_social,
+                'estado' => $estado,
+                'condicion' => $condicion,
+                'direccion' => $direccion,
             );
 
         } catch (Exception $e) {
@@ -352,8 +375,6 @@ class ClienteController
         //Retornamos el json
         echo json_encode(array("result" => array("code" => $result, "message" => $message)));
     }
-
-
 
 }
 

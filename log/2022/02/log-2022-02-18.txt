@@ -1,0 +1,30 @@
+2022-02-18 08:17:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:18:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:20:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:21:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:23:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:24:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:26:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:27:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:29:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:30:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:32:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:33:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:35:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:36:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-18 08:38:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+

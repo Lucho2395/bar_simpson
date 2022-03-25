@@ -1,0 +1,10 @@
+2022-02-23 09:58:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-23 09:58:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\controllers\AdminController.php: 77[MESSAGGE]Trying to get property 'id_caja' of non-object
+
+2022-02-23 09:58:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-23 09:58:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-23 09:58:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\caju\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+

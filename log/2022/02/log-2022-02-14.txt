@@ -1,0 +1,367 @@
+2022-02-14 11:34:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:34:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-14 11:34:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:34:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-14 11:34:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:34:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-14 11:34:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:34:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-14 11:36:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:36:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-14 11:36:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:36:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-14 11:36:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:36:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-14 11:36:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:36:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-14 11:36:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:37:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:37:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:46:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:46:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 232[MESSAGGE]Undefined variable: total_soles
+
+2022-02-14 11:47:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 61[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 63[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 65[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 67[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:47:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:47:37[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|enviar_venta_correo [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2022-02-14 11:48:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:48:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 61[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 63[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 65[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 67[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:49:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:49:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\controllers\VentasController.php: 1305[MESSAGGE]Undefined property: stdClass::$pago_fecha_emitida
+
+2022-02-14 11:49:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\mesita_punchana\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-02-14 11:49:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\imprimir_ticket_pdf.php: 35[MESSAGGE]Undefined property: stdClass::$empresa_nombre
+
+2022-02-14 11:49:36[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|imprimir_ticket_pdf_local [texto] Too few arguments to function FPDF::SetMargins(), 1 passed in C:\laragon\www\mesita_punchana\app\view\ventas\imprimir_ticket_pdf.php on line 62 and at least 2 expected
+2022-02-14 11:49:36[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|enviar_venta_correo [texto] Could not access file: 
+2022-02-14 11:52:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-14 11:52:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-14 11:52:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-14 11:52:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-14 11:52:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-14 11:52:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-14 11:52:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:52:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\pedido\asignar.php: 77[MESSAGGE]Undefined variable: parametro
+
+2022-02-14 11:53:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Pedido.php: 201[MESSAGGE]Undefined property: Pedido::$id_cliente
+
+2022-02-14 11:53:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Pedido.php: 202[MESSAGGE]Undefined property: Pedido::$cliente_nombre_d
+
+2022-02-14 11:53:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Pedido.php: 203[MESSAGGE]Undefined property: Pedido::$comanda_direccion_delivery
+
+2022-02-14 11:53:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Pedido.php: 204[MESSAGGE]Undefined property: Pedido::$comanda_telefono_delivery
+
+2022-02-14 11:53:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\CALIENTES_2): failed to open stream: No such file or directory
+
+2022-02-14 11:53:26[UTC -5] [ip] 127.0.0.1 [lugar] PedidoController|guardar_comanda [texto] Failed to copy file to printer
+2022-02-14 11:53:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\pedido\detalle_pedido.php: 16[MESSAGGE]Undefined variable: parametro
+
+2022-02-14 11:53:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Pedido.php: 1183[MESSAGGE]Undefined property: Pedido::$venta_direccion
+
+2022-02-14 11:53:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Pedido.php: 1200[MESSAGGE]Undefined property: Pedido::$venta_fecha_de_baja
+
+2022-02-14 11:53:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Pedido.php: 1273[MESSAGGE]Undefined property: Pedido::$id_producto_precio
+
+2022-02-14 11:53:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\Ticketera): failed to open stream: No such file or directory
+
+2022-02-14 11:53:37[UTC -5] [ip] 127.0.0.1 [lugar] PedidoController|guardar_venta [texto] Failed to copy file to printer
+2022-02-14 11:53:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 75[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 76[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 77[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 78[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 79[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 85[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 86[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 87[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:53:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 339[MESSAGGE]Undefined variable: total_soles
+
+2022-02-14 11:54:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 75[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 76[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 77[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 78[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 79[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 85[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 86[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 87[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 116[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 118[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 120[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:54:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas_enviadas.php: 122[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:55:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 232[MESSAGGE]Undefined variable: total_soles
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 15[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 16[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 17[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 18[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 19[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 25[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 26[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 27[MESSAGGE]Undefined variable: estado_cpe
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 61[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 63[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 65[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\historial_ventas.php: 67[MESSAGGE]Undefined variable: tipo_venta
+
+2022-02-14 11:55:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:55:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:55:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\controllers\VentasController.php: 1305[MESSAGGE]Undefined property: stdClass::$pago_fecha_emitida
+
+2022-02-14 11:55:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\mesita_punchana\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-02-14 11:55:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\imprimir_ticket_pdf.php: 35[MESSAGGE]Undefined property: stdClass::$empresa_nombre
+
+2022-02-14 11:55:22[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|imprimir_ticket_pdf_local [texto] Too few arguments to function FPDF::SetMargins(), 1 passed in C:\laragon\www\mesita_punchana\app\view\ventas\imprimir_ticket_pdf.php on line 62 and at least 2 expected
+2022-02-14 11:55:22[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|enviar_venta_correo [texto] Could not access file: 
+2022-02-14 11:56:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:58:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:59:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 11:59:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\controllers\VentasController.php: 1305[MESSAGGE]Undefined property: stdClass::$pago_fecha_emitida
+
+2022-02-14 11:59:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\mesita_punchana\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-02-14 11:59:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\imprimir_ticket_pdf.php: 35[MESSAGGE]Undefined property: stdClass::$empresa_nombre
+
+2022-02-14 11:59:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:01:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:02:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:04:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:05:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:05:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\controllers\VentasController.php: 1305[MESSAGGE]Undefined property: stdClass::$pago_fecha_emitida
+
+2022-02-14 12:05:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\mesita_punchana\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-02-14 12:05:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\ventas\imprimir_ticket_pdf.php: 35[MESSAGGE]Undefined property: stdClass::$empresa_nombre
+
+2022-02-14 12:05:47[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:07:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:08:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:10:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:11:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:13:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:14:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:16:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:17:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:19:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-14 12:20:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+

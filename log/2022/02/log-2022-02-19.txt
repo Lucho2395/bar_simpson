@@ -1,0 +1,26 @@
+2022-02-19 11:28:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-19 11:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Caja.php: 128[MESSAGGE]Trying to get property 'caja_apertura' of non-object
+
+2022-02-19 11:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\models\Caja.php: 197[MESSAGGE]Trying to get property 'turno_nombre' of non-object
+
+2022-02-19 11:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\admin\inicio.php: 171[MESSAGGE]Trying to get property 'caja_numero_nombre' of non-object
+
+2022-02-19 11:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-19 11:28:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-19 11:28:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-19 11:28:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\mesita_punchana\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-19 11:28:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-19 11:28:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-19 11:29:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-19 11:29:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-19 11:29:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\mesita_punchana\app\view\negocio\usuarios_sucursal.php: 77[MESSAGGE]Trying to get property 'sucursal_nombre' of non-object
+

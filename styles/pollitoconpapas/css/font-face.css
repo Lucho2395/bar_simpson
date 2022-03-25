@@ -1,0 +1,79 @@
+/* Titillium Web 200 - Normal */
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/Titillium_Web/TitilliumWeb-ExtraLight-200.ttf');
+}
+
+/* Titillium Web 200 - Italic */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: italic;
+    font-weight: 200;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-ExtraLightItalic-200.ttf');
+}
+
+/* Titillium Web 300 - Normal */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-Light-300.ttf');
+}
+
+/* Titillium Web 300 - Italic */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: italic;
+    font-weight: 300;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-LightItalic-300.ttf');
+}
+
+/* Titillium Web 400 - Normal */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-Regular-400.ttf');
+}
+
+/* Titillium Web 400 - Italic */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-Italic-400.ttf');
+}
+
+/* Titillium Web 600 - Normal */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-SemiBold-600.ttf');
+}
+
+/* Titillium Web 600 - Italic */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: italic;
+    font-weight: 600;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-SemiBoldItalic-600.ttf');
+}
+
+/* Titillium Web 700 - Normal */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-Bold-700.ttf');
+}
+
+/* Titillium Web 700 - Italic */
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: italic;
+    font-weight: 700;
+    src: url('../fonts/Titillium_Web/TitilliumWeb-BoldItalic-700.ttf');
+}

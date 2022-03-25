@@ -199,23 +199,23 @@
             </div>
             <div class="modal-body">
                 <div class="container-fluid">
-                     <div class="row">
-                <div class="col-lg-12">
-                    <div class="form-group">
-                        <label class="col-form-label">Elegir Mesa</label>
-                        <select class="form-control" id="id_mesa_nuevo" name="id_mesa_nuevo">
-                            <option value="">Seleccionar Mesa</option>
-                            <?php
-                            foreach ($mesas as $m){
-                                ?>
-                                <option value="<?php echo $m->id_mesa;?>"><?php echo $m->mesa_nombre;?></option>
-                                <?php
-                            }
-                            ?>
-                        </select>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="form-group">
+                                <label class="col-form-label">Elegir Mesa</label>
+                                <select class="form-control" id="id_mesa_nuevo" name="id_mesa_nuevo">
+                                    <option value="">Seleccionar Mesa</option>
+                                    <?php
+                                    foreach ($mesas as $m){
+                                        ?>
+                                        <option value="<?php echo $m->id_mesa;?>"><?php echo $m->mesa_nombre;?></option>
+                                        <?php
+                                    }
+                                    ?>
+                                </select>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
                 </div>
             </div>
             <div class="modal-footer">
@@ -236,23 +236,23 @@
             </div>
             <div class="modal-body">
                 <div class="container-fluid">
-                     <div class="row">
-                <div class="col-lg-12">
-                    <div class="form-group">
-                        <label class="col-form-label">Elegir Mesa</label>
-                        <select class="form-control" id="id_mesa_pn" name="id_mesa_pn">
-                            <option value="">Seleccionar Mesa</option>
-                            <?php
-                            foreach ($mesas_pn as $m){
-                                ?>
-                                <option value="<?php echo $m->id_mesa;?>"><?php echo $m->mesa_nombre;?></option>
-                                <?php
-                            }
-                            ?>
-                        </select>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="form-group">
+                                <label class="col-form-label">Elegir Mesa</label>
+                                <select class="form-control" id="id_mesa_pn" name="id_mesa_pn">
+                                    <option value="">Seleccionar Mesa</option>
+                                    <?php
+                                    foreach ($mesas_pn as $m){
+                                        ?>
+                                        <option value="<?php echo $m->id_mesa;?>"><?php echo $m->mesa_nombre;?></option>
+                                        <?php
+                                    }
+                                    ?>
+                                </select>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
                 </div>
             </div>
             <div class="modal-footer">
@@ -273,7 +273,7 @@
             </div>
             <div class="modal-body">
                 <div class="container-fluid">
-                     <div class="row">
+                    <div class="row">
                         <div class="col-lg-12">
                             <div class="form-group">
                                 <input type="hidden" id="id_comanda_detalle_eliminar" name="id_comanda_detalle_eliminar">
@@ -652,7 +652,7 @@
                 <div class="col-lg-2 col-xs-2 col-md-2 col-sm-2">
                     <button class="btn btn-primary" data-toggle="modal" data-target="#agregar_pedido_nuevo"><i class="fa fa-pencil"></i> Nuevo Pedido</button>
                 </div>
-             </div>
+            </div>
             <br>
             <div class="row">
                 <div class="col-lg-12" style="text-align: center; padding-bottom:5px; "><h3><b>Pedido # <?= $dato_pedido->comanda_correlativo;?></b> // <?= $dato_pedido->mesa_nombre;?> // Personas: <?= $dato_pedido->comanda_cantidad_personas;?></h3></div>
@@ -709,10 +709,10 @@
                                             <?php
                                             if($p->comanda_detalle_estado_venta == "0"){ ?>
                                                 <td><input class="form-control" type="number" id="cantidad_detalle_cantidad<?= $p->id_comanda_detalle;?>" value="<?= $p->comanda_detalle_cantidad;?>" onchange="cambiar_comanda_detalle_cantidad(<?= $p->id_comanda_detalle;?>, <?= $p->id_comanda;?>)"></td>
-                                            <?php
+                                                <?php
                                             }else{ ?>
-                                            <td><?= $p->comanda_detalle_cantidad;?></td>
-                                            <?php
+                                                <td><?= $p->comanda_detalle_cantidad;?></td>
+                                                <?php
                                             }
                                             ?>
                                             <td><span id="span_comanda_detalle_total<?= $p->id_comanda_detalle;?>"><?= $p->comanda_detalle_total;?></span></td>
@@ -720,14 +720,14 @@
                                             <td>
                                                 <?php
                                                 if($p->comanda_detalle_estado_venta == 0){
-                                                ?>
-                                                <a class="btn btn-danger" type="button" id="btn-eliminar_pedido" onclick="cargar_valores(<?= $p->id_comanda_detalle;?>,'<?= $p->id_comanda?>','<?= $p->id_mesa?>')" data-toggle="modal" data-target="#eliminar" title='Eliminar'><i class='fa fa-times text-white eliminar margen'></i></a>
-                                                <?php
+                                                    ?>
+                                                    <a class="btn btn-danger" type="button" id="btn-eliminar_pedido" onclick="cargar_valores(<?= $p->id_comanda_detalle;?>,'<?= $p->id_comanda?>','<?= $p->id_mesa?>')" data-toggle="modal" data-target="#eliminar" title='Eliminar'><i class='fa fa-times text-white eliminar margen'></i></a>
+                                                    <?php
                                                 }
                                                 else{
-                                                ?>
-                                                   <!-- <a class="btn btn-danger" type="button" id="btn-eliminar_servicio" onclick="preguntar('¿El pedido no se puede eliminar porque ya esta siendo preparado?','eliminar_comanda_detalle','Si','No',<?= $p->id_comanda_detalle;?>)" data-toggle="tooltip" title='No se Puede Eliminar'><i class='fa fa-eyes text-white eliminar margen'></i></a> -->
-                                                <?php
+                                                    ?>
+                                                    <!-- <a class="btn btn-danger" type="button" id="btn-eliminar_servicio" onclick="preguntar('¿El pedido no se puede eliminar porque ya esta siendo preparado?','eliminar_comanda_detalle','Si','No',<?= $p->id_comanda_detalle;?>)" data-toggle="tooltip" title='No se Puede Eliminar'><i class='fa fa-eyes text-white eliminar margen'></i></a> -->
+                                                    <?php
                                                 }
                                                 ?>
                                             </td>
@@ -739,11 +739,11 @@
                                             if($resultado){
                                                 ?>
                                                 <td>PAGADO</td>
-                                            <?php
+                                                <?php
                                             }else{
                                                 ?>
                                                 <td>Pendiente de Pago</td>
-                                            <?php
+                                                <?php
                                             }
                                             ?>
                                         </tr>
@@ -778,14 +778,14 @@
                                             <button type="button" id="btn_generarventa" class="btn btn-primary" data-toggle="modal" data-target="#ventas">
                                                 <i class="fa fa-money"></i> Cobrar</button>
                                         </div>
-                                    <?php
-                                }else{
-                                    ?>
-                                    <div class="col-lg-3 col-sm-3 col-md-3">
-                                        <button type="button" id="btn_generarventa" class="btn btn-primary" data-toggle="modal" onclick="preguntar('Usted no aperturo caja, ¿Desea ir al inicio para aperturar?','ir_caja','SÍ','NO')">
-                                            <i class="fa fa-money"></i> Cobrar</button>
-                                    </div>
-                                <?php
+                                        <?php
+                                    }else{
+                                        ?>
+                                        <div class="col-lg-3 col-sm-3 col-md-3">
+                                            <button type="button" id="btn_generarventa" class="btn btn-primary" data-toggle="modal" onclick="preguntar('Usted no aperturo caja, ¿Desea ir al inicio para aperturar?','ir_caja','SÍ','NO')">
+                                                <i class="fa fa-money"></i> Cobrar</button>
+                                        </div>
+                                        <?php
                                     }
                                 }
                                 ?>
@@ -905,6 +905,7 @@
             dataType: 'json',
             success:function (r) {
                 $("#cliente_nombre").val(r.result.name+ ' ' + r.result.first_name+ ' ' + r.result.last_name);
+                $("#cliente_direccion").val(r.result.direccion);
             }
         });
     }
@@ -918,6 +919,7 @@
             dataType: 'json',
             success:function (r) {
                 $("#cliente_nombre").val(r.result.razon_social);
+                $("#cliente_direccion").val(r.result.direccion);
             }
         });
     }
@@ -1057,10 +1059,10 @@
 
         <?php
         foreach($pedidos as $ls){
-            ?>
-            var id = "<?= $ls->id_comanda_detalle;?>";
-            calcular_total(id)
-            <?php
+        ?>
+        var id = "<?= $ls->id_comanda_detalle;?>";
+        calcular_total(id)
+        <?php
         }
         ?>
     }

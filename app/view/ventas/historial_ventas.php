@@ -172,6 +172,21 @@
                                                         <?php
                                                     }
                                                 }
+                                                //boton para cambiar de estado si sale error 1033 (informado anteriormente)
+                                                $error1 = '1033';
+                                                $error2 = '1032';
+                                                $respuesta = $al->venta_respuesta_sunat;
+                                                $error1033 = strrpos($respuesta, $error1);
+                                                $error1032 = strrpos($respuesta, $error2);
+                                                if($error1033){
+                                                    ?>
+                                                    <a target="_blank" type="button" id="btn_actualizar_estado<?= $al->id_venta;?>" class="btn btn-sm btn-warning btne" style="color: white" onclick="cambiarestado_enviado(<?= $al->id_venta ?>)" ><i class="fa fa-circle-o-notch"></i></a>
+                                                    <?php
+                                                }elseif($error1032){
+                                                    ?>
+                                                    <a target="_blank" type="button" id="btn_actualizar_estado<?= $al->id_venta;?>" class="btn btn-sm btn-warning btne" style="color: white" onclick="cambiarestado_anulado(<?= $al->id_venta ?>)" ><i class="fa fa-circle-o-notch"></i></a>
+                                                    <?php
+                                                }
                                                 ?>
                                             </td>
                                         </tr>
@@ -232,4 +247,76 @@
         var total_rs = <?= $total_soles; ?>;
         $("#total_soles").html("<b>"+total_rs+"</b>");
     });
+    function cambiarestado_enviado(id){
+        var boton = "btn_actualizar_estado" + id;
+        var accion = "1033";
+        $.ajax({
+            type: "POST",
+            url: urlweb + "api/Ventas/cambiarestado_enviado",
+            data: 'id=' + id + "&accion=" + accion,
+            dataType: 'json',
+            beforeSend: function () {
+                cambiar_estado_boton(boton, 'actualizando...', true);
+            },
+            success:function (r) {
+
+                switch (r.result.code) {
+                    case 1:
+                        respuesta('¡Fue actualizada como enviada y aceptada!', 'success');
+                        setTimeout(function () {
+                            location.reload();
+                            //location.href = urlweb +  'Pedido/gestionar';
+                        }, 300);
+                        break;
+                    case 2:
+                        respuesta('Error al actualizar', 'error');
+                        setTimeout(function () {
+                            location.reload();
+                            //location.href = urlweb +  'Pedido/gestionar';
+                        }, 300);
+                        break;
+                    default:
+                        respuesta('¡Algo catastrofico ha ocurrido!', 'error');
+                        break;
+                }
+            }
+
+        });
+    }
+    function cambiarestado_anulado(id){
+        var boton = "btn_actualizar_estado" + id;
+        var accion = "1032";
+        $.ajax({
+            type: "POST",
+            url: urlweb + "api/Ventas/cambiarestado_enviado",
+            data: 'id=' + id + "&accion=" + accion,
+            dataType: 'json',
+            beforeSend: function () {
+                cambiar_estado_boton(boton, 'actualizando...', true);
+            },
+            success:function (r) {
+
+                switch (r.result.code) {
+                    case 1:
+                        respuesta('¡Fue actualizada como enviada y aceptada!', 'success');
+                        setTimeout(function () {
+                            location.reload();
+                            //location.href = urlweb +  'Pedido/gestionar';
+                        }, 300);
+                        break;
+                    case 2:
+                        respuesta('Error al actualizar', 'error');
+                        setTimeout(function () {
+                            location.reload();
+                            //location.href = urlweb +  'Pedido/gestionar';
+                        }, 300);
+                        break;
+                    default:
+                        respuesta('¡Algo catastrofico ha ocurrido!', 'error');
+                        break;
+                }
+            }
+
+        });
+    }
 </script>

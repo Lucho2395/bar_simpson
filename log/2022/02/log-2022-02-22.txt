@@ -1,0 +1,90 @@
+2022-02-22 10:22:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:22:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\models\Caja.php: 128[MESSAGGE]Trying to get property 'caja_apertura' of non-object
+
+2022-02-22 10:22:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\models\Caja.php: 197[MESSAGGE]Trying to get property 'turno_nombre' of non-object
+
+2022-02-22 10:22:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 171[MESSAGGE]Trying to get property 'caja_numero_nombre' of non-object
+
+2022-02-22 10:22:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:24:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:24:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\models\Caja.php: 128[MESSAGGE]Trying to get property 'caja_apertura' of non-object
+
+2022-02-22 10:24:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\models\Caja.php: 197[MESSAGGE]Trying to get property 'turno_nombre' of non-object
+
+2022-02-22 10:24:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 171[MESSAGGE]Trying to get property 'caja_numero_nombre' of non-object
+
+2022-02-22 10:24:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:26:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:26:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\models\Caja.php: 128[MESSAGGE]Trying to get property 'caja_apertura' of non-object
+
+2022-02-22 10:26:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\models\Caja.php: 197[MESSAGGE]Trying to get property 'turno_nombre' of non-object
+
+2022-02-22 10:26:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 171[MESSAGGE]Trying to get property 'caja_numero_nombre' of non-object
+
+2022-02-22 10:26:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:27:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:27:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\models\Caja.php: 128[MESSAGGE]Trying to get property 'caja_apertura' of non-object
+
+2022-02-22 10:27:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\models\Caja.php: 197[MESSAGGE]Trying to get property 'turno_nombre' of non-object
+
+2022-02-22 10:27:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 171[MESSAGGE]Trying to get property 'caja_numero_nombre' of non-object
+
+2022-02-22 10:27:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\controllers\AdminController.php: 77[MESSAGGE]Trying to get property 'id_caja' of non-object
+
+2022-02-22 10:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\controllers\AdminController.php: 77[MESSAGGE]Trying to get property 'id_caja' of non-object
+
+2022-02-22 10:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:34:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:34:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\controllers\AdminController.php: 77[MESSAGGE]Trying to get property 'id_caja' of non-object
+
+2022-02-22 10:34:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:36:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:36:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\controllers\AdminController.php: 77[MESSAGGE]Trying to get property 'id_caja' of non-object
+
+2022-02-22 10:36:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:37:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:37:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\controllers\AdminController.php: 77[MESSAGGE]Trying to get property 'id_caja' of non-object
+
+2022-02-22 10:37:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\app\view\admin\inicio.php: 271[MESSAGGE]Undefined variable: a
+
+2022-02-22 10:37:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:37:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\caju\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-22 10:37:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:37:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\caju\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-22 10:37:47[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:37:47[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\caju\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-22 10:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\caju\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-02-22 10:38:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\caju\core\session.php: 15[MESSAGGE]Undefined index: app
+
+2022-02-22 10:38:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\caju\app\models\Sesion.php: 136[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+

@@ -1115,6 +1115,42 @@ class VentasController
         //Retornamos el json
         echo json_encode(array("result" => array("code" => $result, "message" => $message)));
     }
+    public function cambiarestado_enviado(){
+        //Código de error general
+        $result = 1;
+        //Mensaje a devolver en caso de hacer consulta por app
+        $message = 'OK';
+        try{
+            $ok_data = true;
+            //Validamos que todos los parametros a recibir sean correctos. De ocurrir un error de validación,
+            //$ok_true se cambiará a false y finalizara la ejecucion de la funcion
+            //$ok_data = $this->validar->validar_parametro('id_comanda_detalle', 'POST',true,$ok_data,11,'texto',0);
+
+            //Validacion de datos
+            if($ok_data) {
+                $id_venta = $_POST['id'];
+                $venta = $this->ventas->listar_venta_x_id($id_venta);
+                if ($_POST['accion'] == "1033"){
+                    $respuesta = "La Factura numero ".$venta->venta_serie."-".$venta->venta_correlativo.", ha sido aceptada";
+                    $result = $this->ventas->actualizar_venta_enviado($id_venta,$respuesta);
+                }else if($_POST['accion'] == "1032"){
+                    $respuesta = "El comprobante ya esta informado y se encuentra con estado anulado o rechazado";
+                    $result = $this->ventas->actualizar_venta_enviado_anulado($id_venta,$respuesta);
+                }
+
+            }else {
+                //Código 6: Integridad de datos erronea
+                $result = 6;
+                $message = "Integridad de datos fallida. Algún parametro se está enviando mal";
+            }
+        }catch (Exception $e){
+            //Registramos el error generado y devolvemos el mensaje enviado por PHP
+            $this->log->insertar($e->getMessage(), get_class($this).'|'.__FUNCTION__);
+            $message = $e->getMessage();
+        }
+        //Retornamos el json
+        echo json_encode(array("result" => array("code" => $result, "message" => $message)));
+    }
 
     public function excel_ventas_enviadas(){
         try{
