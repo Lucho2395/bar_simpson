@@ -40,10 +40,10 @@ $printer->setJustification(Printer::JUSTIFY_CENTER);
 	Intentaremos cargar e imprimir
 	el logo
 */
-try{
+/*try{
     $logo = EscposImage::load("media/logo/ticket_simpson.png", false);
     $printer->bitImage($logo);
-}catch(Exception $e){/*No hacemos nada si hay error*/}
+}catch(Exception $e){No hacemos nada si hay error}*/
 /*
 	Ahora vamos a imprimir un encabezado
 */
@@ -56,7 +56,7 @@ $printer->setTextSize(1,1);
 $printer->text("RUC Nº $empresa->empresa_ruc" . "\n");
 $printer->text("$empresa->empresa_domiciliofiscal" . "\n");
 //$printer->text("CAL. YAVARI NRO. 1360" . "\n");
-$printer->text("$empresa->empresa_departamento - $empresa->empresa_provincia - $empresa->empresa_distrito" . "\n");
+$printer->text("$empresa->empresa_departamento-$empresa->empresa_provincia-$empresa->empresa_distrito" . "\n");
 if($empresa->empresa_telefono1 != NULL){
     $printer->text("Tel. $empresa->empresa_telefono1" . "\n");
 }
@@ -77,7 +77,7 @@ $printer->setTextSize(1,1);
 $printer->text(date("Y-m-d H:i:s") . "\n");
 $printer->setFont(Printer::FONT_A);
 $printer->setTextSize(1,1);
-$printer->text("------------------------------------------------" . "\n");
+$printer->text("---------------------------------" . "\n");
 $printer->text("DATOS DEL CLIENTE" . "\n");
 //$printer->text("------------------------------------------------" . "\n");
 /*Alinear a la izquierda*/
@@ -91,7 +91,7 @@ $printer->text("ATENDIDO POR : $comanda->persona_nombre "." "."$comanda->persona
 //$printer->text("PADRES:       $padre1" . "\n" . "           $padre2" . "\n");
 # Vamos a alinear al centro lo próximo que imprimamos
 $printer->setJustification(Printer::JUSTIFY_CENTER);
-$printer->text("------------------------------------------------" . "\n");
+$printer->text("---------------------------------" . "\n");
 /*
 	Ahora vamos a imprimir los
 	productos
@@ -99,6 +99,8 @@ $printer->text("------------------------------------------------" . "\n");
 
 # Para mostrar el total
 $total = 0;
+$printer->setFont(Printer::FONT_B);
+$printer->setTextSize(1,1);
 foreach ($detalle_venta as $dp) {
     $total += $dp->venta_detalle_cantidad * $dp->venta_detalle_valor_unitario;
 
@@ -108,42 +110,50 @@ foreach ($detalle_venta as $dp) {
 
     /*Y a la derecha para el importe*/
     $printer->setJustification(Printer::JUSTIFY_CENTER);
-    $printer->text($dp->venta_detalle_cantidad . "         x         " .$dp->venta_detalle_valor_unitario.'        S/ ' . $dp->venta_detalle_valor_total . "\n");
+    $printer->text($dp->venta_detalle_cantidad . "      x      " .$dp->venta_detalle_valor_unitario.'      S/ ' . $dp->venta_detalle_valor_total . "\n");
 }
 
 /*
 	Terminamos de imprimir
 	los productos, ahora va el total
 */
-$printer->text("------------------------------------------------");
+$printer->setFont(Printer::FONT_A);
+$printer->setTextSize(1,1);
+$printer->text("---------------------------------" . "\n");
 /*Alinear a la izquierda para la cantidad y el nombre*/
-$printer->setJustification(Printer::JUSTIFY_LEFT);
+$printer->setJustification(Printer::JUSTIFY_RIGHT);
+$printer->setFont(Printer::FONT_B);
+$printer->setTextSize(1,1);
 if($venta->venta_totalgratuita > 0){
-    $printer->text("                           OP. GRAT: S/ ". $venta->venta_totalgratuita ."\n");
+    $printer->text("              OP. GRAT: S/ ". $venta->venta_totalgratuita ."\n");
 
 }
-$printer->text("                           OP. EXON: S/ ". $venta->venta_totalexonerada ."\n");
+$printer->text("              OP. EXON: S/ ". $venta->venta_totalexonerada ."\n");
 if($venta->venta_totalinafecta > 0){
-    $printer->text("                           OP. INAF: S/ ". $venta->venta_totalinafecta ."\n");
+    $printer->text("              OP. INAF: S/ ". $venta->venta_totalinafecta ."\n");
 }
-$printer->text("                           OP. GRAV: S/ ". $venta->venta_totalgravada ."\n");
-$printer->text("                                IGV: S/ ". $venta->venta_totaligv ."\n");
+$printer->text("              OP. GRAV: S/ ". $venta->venta_totalgravada ."\n");
+$printer->text("              IGV: S/ ". $venta->venta_totaligv ."\n");
 if($venta->venta_icbper > 0){
-    $printer->text("                             ICBPER: S/ ". $venta->venta_icbper ."\n");
+    $printer->text("              ICBPER: S/ ". $venta->venta_icbper ."\n");
 }
 
-$printer->text("                              TOTAL: S/ ". $venta->venta_total ."\n");
+$printer->text("              TOTAL: S/ ". $venta->venta_total ."\n");
 if($venta->venta_pago_cliente > 0){
     $printer->setFont(Printer::FONT_B);
     $printer->setTextSize(1,1);
-    $printer->text("                                       PAGÓ CON: S/ ". $venta->venta_pago_cliente ."\n");
-    $printer->text("                                         Vuelto: S/ ". $venta->venta_vuelto ."\n");
+    $printer->text("              PAGÓ CON: S/ ". $venta->venta_pago_cliente ."\n");
+    $printer->text("              Vuelto: S/ ". $venta->venta_vuelto ."\n");
 }
-$printer->setFont(Printer::FONT_A);
+$printer->setFont(Printer::FONT_C);
 $printer->setTextSize(1,1);
 $printer->setJustification(Printer::JUSTIFY_CENTER);
 $printer->text(CantidadEnLetra($venta->venta_total) ."\n");
-$printer->text("------------------------------------------------" . "\n");
+$printer->setFont(Printer::FONT_A);
+$printer->setTextSize(1,1);
+$printer->text("---------------------------------" . "\n");
+$printer->setFont(Printer::FONT_B);
+$printer->setTextSize(1,1);
 if($venta->venta_tipo == "07" || $venta->venta_tipo == "08"){
     if($venta->tipo_documento_modificar == "03"){
         $documento = "BOLETA";
@@ -156,10 +166,10 @@ if($venta->venta_tipo == "07" || $venta->venta_tipo == "08"){
     $printer->text("CORRELATIVO MODIFICADO: $venta->correlativo_modificar" . "\n");
     $printer->text("MOTIVO: $motivo->tipo_nota_descripcion" . "\n");
 }
-try{
+/*try{
     $logo = EscposImage::load("$ruta_qr", false);
     $printer->bitImage($logo);
-}catch(Exception $e){/*No hacemos nada si hay error*/}
+}catch(Exception $e){No hacemos nada si hay error}*/
 
 
 /*
@@ -171,7 +181,9 @@ $printer->setTextSize(1,1);
 $printer->text("BIENES TRANSFERIDOS EN LA AMAZONIA PARA SER" . "\n");
 $printer->text("CONSUMIDOS EN LA MISMA" . "\n");
 $printer->setJustification(Printer::JUSTIFY_CENTER);
-$printer->text("------------------------------------------------" . "\n");
+$printer->setFont(Printer::FONT_A);
+$printer->setTextSize(1,1);
+$printer->text("---------------------------------" . "\n");
 $printer->setFont(Printer::FONT_B);
 $printer->setTextSize(1,1);
 $printer->text("Digitaliza tu negocio, sistemas a medida con " . "\n");

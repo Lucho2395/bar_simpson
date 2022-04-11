@@ -957,7 +957,9 @@ class PedidoController
                     $id_comanda = $datos->id_comanda;
                     $comanda = $this->pedido->listar_comanda_x_id($id_comanda);
                     $detalle_comanda =$this->pedido->listar_detalle_x_comanda($id_comanda);
-                    foreach ($detalle_comanda as $de){
+                    $nombre_ticket = "Ticketera";
+                    require _VIEW_PATH_ . 'pedido/ticket_comanda.php';
+                    /*foreach ($detalle_comanda as $de){
                         $detalle = $this->pedido->listar_detalle_x_comanda_detalle($de->id_comanda_detalle);
                         if($detalle->id_grupo != 3){
                             $nombre_ticket = "$detalle->grupo_ticketera";
@@ -969,7 +971,7 @@ class PedidoController
                             require _VIEW_PATH_ . 'pedido/ticket_comanda_detalle.php';
                         }
 
-                    }
+                    }*/
 
 
                     //FIN - IPRESION DE TICKET DE COMANDA
@@ -1049,7 +1051,9 @@ class PedidoController
 //                        $id_comanda = $id_comanda;
                         $comanda = $this->pedido->listar_comanda_x_id($id_comanda);
                         $detalle_comanda =$this->pedido->listar_detalle_x_comanda_x_fecha($id_comanda, $fecha);
-                        foreach ($detalle_comanda as $de){
+                        require _VIEW_PATH_ . 'pedido/ticket_comanda.php';
+
+                        /*foreach ($detalle_comanda as $de){
                             $detalle = $this->pedido->listar_detalle_x_comanda_detalle($de->id_comanda_detalle);
                             if($detalle->id_grupo != 3){
                                 $nombre_ticket = "$detalle->grupo_ticketera";
@@ -1061,7 +1065,7 @@ class PedidoController
                                 require _VIEW_PATH_ . 'pedido/ticket_comanda_detalle.php';
                             }
 
-                        }
+                        }*/
 
 //                        require _VIEW_PATH_ . 'pedido/ticket_comanda.php';
                         //FIN - IPRESION DE TICKET DE COMANDA

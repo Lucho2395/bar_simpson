@@ -22,7 +22,7 @@ use Mike42\Escpos\PrintConnectors\WindowsPrintConnector;
 	desde el panel de control
 */
 
-$nombre_impresora = $caja_dato->caja_numero_impresora;
+$nombre_impresora = "Ticketera";
 //$nombre_impresora = $detalle_comanda->grupo_ticketera; //ticketera individual por grupo - sacar comentario
 
 
@@ -50,7 +50,7 @@ $printer->text("NRO. TICKET $comanda->comanda_correlativo" . "\n\n");
 */
 $printer->setFont(Printer::FONT_A);
 $printer->setTextSize(1,1);
-$printer->text("------------------------------------------------" . "\n");
+$printer->text("-------------------------------" . "\n");
 
 /*Alinear a la izquierda*/
 $printer->setJustification(Printer::JUSTIFY_LEFT);
@@ -64,7 +64,7 @@ foreach ($detalle_comanda as $dc) {
 }
 
 
-$printer->text("------------------------------------------------");
+$printer->text("-----------------------------------");
 
 /*Alimentamos el papel 3 veces*/
 $printer->feed(1);

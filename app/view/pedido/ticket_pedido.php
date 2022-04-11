@@ -114,7 +114,7 @@ $printer->text("NRO. TICKET $dato_pedido->comanda_correlativo" . "\n\n");
 */
 $printer->setFont(Printer::FONT_A);
 $printer->setTextSize(1,1);
-$printer->text("------------------------------------------------" . "\n");
+$printer->text("---------------------------------" . "\n");
 $printer->text("DATOS DEL CLIENTE" . "\n");
 //$printer->text("------------------------------------------------" . "\n");
 /*Alinear a la izquierda*/
@@ -126,7 +126,7 @@ $printer->text("Direccion:" . "\n");
 //$printer->text("PADRES:       $padre1" . "\n" . "           $padre2" . "\n");
 # Vamos a alinear al centro lo próximo que imprimamos
 $printer->setJustification(Printer::JUSTIFY_CENTER);
-$printer->text("------------------------------------------------" . "\n");
+$printer->text("---------------------------------" . "\n");
 /*
 	Ahora vamos a imprimir los
 	productos
@@ -145,7 +145,7 @@ if($anho == '2021'){
 foreach ($pedidos as $dp) {
 
     $pre_uni = $dp->comanda_detalle_precio;
-    if ($dp->id_receta == "131"){
+    if ($dp->id_receta == "0"){
         $pre_uni = $dp->comanda_detalle_precio + $icbper;
     }
     $total += $dp->comanda_detalle_cantidad * $pre_uni;
@@ -157,17 +157,17 @@ foreach ($pedidos as $dp) {
 
     /*Y a la derecha para el importe*/
     $printer->setJustification(Printer::JUSTIFY_CENTER);
-    $printer->text($dp->comanda_detalle_cantidad . "         x         " .$pre_uni.'        S/ ' . $subtotal . "\n");
+    $printer->text($dp->comanda_detalle_cantidad . "      x      " .$pre_uni.'     S/ ' . $subtotal . "\n");
 }
 
 /*
 	Terminamos de imprimir
 	los productos, ahora va el total
 */
-$printer->text("------------------------------------------------");
+$printer->text("---------------------------------");
 /*Alinear a la izquierda para la cantidad y el nombre*/
-$printer->setJustification(Printer::JUSTIFY_LEFT);
-$printer->text("                             TOTAL: S/ ". number_format($total, 2) ."\n");
+$printer->setJustification(Printer::JUSTIFY_RIGHT);
+$printer->text("TOTAL: S/ ". number_format($total, 2) ."\n");
 $printer->setJustification(Printer::JUSTIFY_CENTER);
 $printer->text(CantidadEnLetra($total) ."\n");
 /*$printer->text("------------------------------------------------" . "\n");

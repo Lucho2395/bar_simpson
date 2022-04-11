@@ -44,14 +44,14 @@ $printer->text(date("Y-m-d H:i:s") . "\n");
 $printer->setFont(Printer::FONT_A);
 $printer->setTextSize(2,2);
 $printer->text("$comanda->mesa_nombre" . "\n");
-$printer->text("NRO. TICKET $comanda->comanda_correlativo" . "\n\n");
+$printer->text("NRO. TICKET $comanda->comanda_correlativo" . "\n");
 $printer->text("$detalle->comanda_detalle_despacho" . "\n");
 /*
  Ahora datos del cliente
 */
 $printer->setFont(Printer::FONT_B);
 $printer->setTextSize(2,2);
-$printer->text("-------------------------" . "\n");
+$printer->text("---------------------------------" . "\n");
 
 /*Alinear a la izquierda*/
 $printer->setFont(Printer::FONT_C);
@@ -67,7 +67,7 @@ $printer->setTextSize(2,2);
     $printer->text($detalle->comanda_detalle_cantidad . "  " .$detalle->producto_nombre. "  " .$detalle->comanda_detalle_observacion. "\n");
 
 $printer->setJustification(Printer::JUSTIFY_CENTER);
-$printer->text("-------------------------");
+$printer->text("---------------------------------");
 
 /*Alimentamos el papel 3 veces*/
 $printer->feed(1);

@@ -49,7 +49,7 @@ $printer->text("NRO. TICKET $detalle_comanda->comanda_correlativo" . "\n\n");
 */
 $printer->setFont(Printer::FONT_A);
 $printer->setTextSize(1,1);
-$printer->text("------------------------------------------------" . "\n");
+$printer->text("------------------------------" . "\n");
 
 /*Alinear a la izquierda*/
 $printer->setJustification(Printer::JUSTIFY_LEFT);
@@ -61,7 +61,7 @@ $printer->text("PARA : $detalle_comanda->comanda_detalle_despacho" . "\n");
 $printer->setJustification(Printer::JUSTIFY_CENTER);
 $printer->text($detalle_comanda->comanda_detalle_cantidad . "         " .$detalle_comanda->producto_nombre. "\n");
 
-$printer->text("------------------------------------------------");
+$printer->text("------------------------------");
 
 /*Alimentamos el papel 3 veces*/
 $printer->feed(1);
