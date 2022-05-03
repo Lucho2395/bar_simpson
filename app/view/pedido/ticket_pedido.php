@@ -164,7 +164,7 @@ foreach ($pedidos as $dp) {
 	Terminamos de imprimir
 	los productos, ahora va el total
 */
-$printer->text("---------------------------------");
+$printer->text("---------------------------------"."\n");
 /*Alinear a la izquierda para la cantidad y el nombre*/
 $printer->setJustification(Printer::JUSTIFY_RIGHT);
 $printer->text("TOTAL: S/ ". number_format($total, 2) ."\n");

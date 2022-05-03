@@ -716,6 +716,12 @@ $("#guardar_pedido_nuevo").on('submit', function(e){
 
     var comanda_detalle_observacion = $('#comanda_detalle_observacion').val();
     var contenido_pedido = $('#contenido_pedido').val();
+    var documento_check_ = "";
+    /*$("input:checkbox:checked").each(function() {
+        documento_check_ += $(this).val() + "//";
+    });
+    $('#contenido_impresion').val(documento_check_);
+    var documento_check = $('#contenido_impresion').val();*/
 
 
     var subtotal = comanda_detalle_cantidad * comanda_detalle_precio;
@@ -988,6 +994,7 @@ function Consultar_serie(){
         $("#cliente_numero").val('');
         $("#cliente_nombre").val('');
     }else{
+        $("#select_tipodocumento").val('2');
         $("#cliente_numero").val('11111111');
         $("#cliente_nombre").val('ANONIMO');
     }

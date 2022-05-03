@@ -423,7 +423,7 @@ class PedidoController
     public function ticket_comanda(){
         try{
 
-            $id_comanda = $_POST['id'];
+            $id_comanda = $_POST['comanda_ultimo'];
             $fecha_hoy = date('Y-m-d');
             $id_usuario = $this->encriptar->desencriptar($_SESSION['c_u'], _FULL_KEY_);
 
@@ -432,8 +432,9 @@ class PedidoController
 
             $comanda = $this->pedido->listar_comanda_x_id($id_comanda);
             $detalle_comanda =$this->pedido->listar_detalle_x_comanda($id_comanda);
+            $items_seleccionados = $_POST['imprimir_detalle'];
 
-            require _VIEW_PATH_ . 'pedido/ticket_comanda.php';
+            require _VIEW_PATH_ . 'pedido/ticket_comanda_check.php';
 
             $result = 1;
         }catch (Throwable $e){
@@ -1051,7 +1052,9 @@ class PedidoController
 //                        $id_comanda = $id_comanda;
                         $comanda = $this->pedido->listar_comanda_x_id($id_comanda);
                         $detalle_comanda =$this->pedido->listar_detalle_x_comanda_x_fecha($id_comanda, $fecha);
-                        require _VIEW_PATH_ . 'pedido/ticket_comanda.php';
+                        $items_seleccionados = $_POST['impresion_check'];
+
+                        require _VIEW_PATH_ . 'pedido/ticket_comanda_check.php';
 
                         /*foreach ($detalle_comanda as $de){
                             $detalle = $this->pedido->listar_detalle_x_comanda_detalle($de->id_comanda_detalle);
