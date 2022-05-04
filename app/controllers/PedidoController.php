@@ -1817,7 +1817,7 @@ class PedidoController
                                 $celdas=explode('-.-.',$datos_detalle_pedido);
                                 if(count($celdas)>0){
                                     $igv_porcentaje = 0.18;
-                                    for ($i=0;$i<count($celdas)-1;$i++){
+                                    for ($i=0;$i<count($celdas);$i++){
                                         $model->id_venta = $id_venta;
                                         $id_comanda_detalle = $celdas[$i];
                                         if($id_comanda_detalle != 1){

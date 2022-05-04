@@ -249,11 +249,13 @@ function agregar(){
     //obtenemos valores si la venta es por consumo - INICIO
     var por_consumo_total_valor = $('#por_consumo_total_valor').val();
     //obtenemos valores si la venta es por consumo - FIN
-
+let arraycheck={}
     $("input:checkbox:checked").each(function() {
         pedido_check_ += $(this).val() + "-.-.";
+        arraycheck[`${$(this).val()}`]=$(this).val()
     });
-    $('#datos_detalle_pedido').val(pedido_check_);
+    $('#datos_detalle_pedido').val(Object.keys(arraycheck).join("-.-."));
+    console.log($('#datos_detalle_pedido').val())
     var datos_detalle_pedido = $('#datos_detalle_pedido').val();
     //validar campos vacios
     //valor = validar_campo_vacio('cliente_numero', cliente_numero, valor);
