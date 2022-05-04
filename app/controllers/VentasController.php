@@ -348,7 +348,7 @@ class VentasController
                 if($_POST['fecha_inicio'] != "" ){
                     $where = true;
                     $select = $select . " and DATE(v.venta_fecha) = '" . $_POST['fecha_inicio'] ."'";
-                    $fecha_ini = $_POST['fecha_inicio'];
+                    $fecha_ini = date('Y-m-d', strtotime($_POST['fecha_inicio']));
                     //$fecha_fin = $_POST['fecha_final'];
                 }
 
