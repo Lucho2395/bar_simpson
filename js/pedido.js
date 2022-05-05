@@ -250,7 +250,7 @@ function agregar(){
     var por_consumo_total_valor = $('#por_consumo_total_valor').val();
     //obtenemos valores si la venta es por consumo - FIN
 let arraycheck={}
-    $("input:checkbox:checked").each(function() {
+    $(".cobrar_venta_check:checked").each(function() {
         pedido_check_ += $(this).val() + "-.-.";
         arraycheck[`${$(this).val()}`]=$(this).val()
     });
