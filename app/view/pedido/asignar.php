@@ -32,12 +32,21 @@
                                         <input type="number" value="1" class="form-control" id="comanda_detalle_cantidad" name="comanda_detalle_cantidad">
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
+                                <div class="col-lg-3">
                                     <div class="form-group">
                                         <label class="col-form-label">Tipo Entrega</label>
                                         <select class="form-control" id= "comanda_detalle_despacho" name="comanda_detalle_despacho">
                                             <option value="SALON">SALON</option>
                                             <option value="PARA LLEVAR">PARA LLEVAR</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="form-group">
+                                        <label class="col-form-label">¿Impimir?</label>
+                                        <select class="form-control" id= "comanda_detalle_imprimir" name="comanda_detalle_imprimir">
+                                            <option value="SI">SI</option>
+                                            <option value="NO">NO</option>
                                         </select>
                                     </div>
                                 </div>
@@ -296,6 +305,7 @@
         $("#producto_nombre").val("");
 
         $("#comanda_detalle_despacho option[value='SALON']").attr('selected','selected');
+        $("#comanda_detalle_imprimir option[value='SI']").attr('selected','selected');
         $("#comanda_detalle_despacho").val("SALON");
         $("#comanda_detalle_despacho").select().trigger('change');
         $("#parametro").val("");
@@ -310,7 +320,7 @@
                 for(var i=0;i<filas.length - 1;i++){
                     if(i!=ind){
                         var celdas =filas[i].split('-.-.');
-                        contenido_artificio += celdas[0] + "-.-."+celdas[1] + "-.-." + celdas[2] + "-.-." + celdas[3] + "-.-." +celdas[4] + "-.-."+ celdas[5] + "-.-."+ celdas[6] + "/./.";
+                        contenido_artificio += celdas[0] + "-.-."+celdas[1] + "-.-." + celdas[2] + "-.-." + celdas[3] + "-.-." +celdas[4] + "-.-."+ celdas[5] + "-.-."+ celdas[6] +  "-.-."+ celdas[7] + "/./.";
                     }else{
                         var celdas =filas[i].split('-.-.');
                     }
@@ -334,18 +344,19 @@
         var id_producto = $("#id_producto").val();
         var comanda_detalle_cantidad = $("#comanda_detalle_cantidad").val() * 1;
         var comanda_detalle_precio = $("#comanda_detalle_precio").val() * 1;
+        var comanda_detalle_imprimir = $("#comanda_detalle_imprimir").val();
 
 
         var subtotal = comanda_detalle_cantidad * comanda_detalle_precio;
         subtotal.toFixed(2);
-        subtotal = subtotal.toFixed(2);;
+        subtotal = subtotal.toFixed(2);
 
         /*total_total = total_total + subtotal;
         total_total.toFixed(2);
         total_total = parseFloat(total_total);*/
 
         if(id_producto !="" && comanda_detalle_cantidad!="" && comanda_detalle_precio!="" && producto_nombre!="" && comanda_detalle_observacion !="" && subtotal!="" && comanda_detalle_despacho !="" ){
-            contenido += id_producto + "-.-." + producto_nombre + "-.-."+ comanda_detalle_precio+"-.-." + comanda_detalle_cantidad +"-.-."+comanda_detalle_despacho+"-.-." + comanda_detalle_observacion+"-.-."+subtotal+"/./.";
+            contenido += id_producto + "-.-." + producto_nombre + "-.-."+ comanda_detalle_precio+"-.-." + comanda_detalle_cantidad +"-.-."+comanda_detalle_despacho+"-.-." + comanda_detalle_observacion+"-.-."+subtotal+"-.-."+comanda_detalle_imprimir+"/./.";
             $("#contenido").val(contenido);
             //$("#comanda_total_pedido").val(subtotal);
             respuesta('Agregado', 'success');

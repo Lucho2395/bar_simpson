@@ -930,6 +930,7 @@ class PedidoController
                 $guardar_comanda = $this->pedido->guardar_comanda($model);
                 if($guardar_comanda == 1){
                     $contenido = $_POST['contenido'];
+                    $imprimir = 0;
                     if(count_chars($contenido)>0){
                         $filas=explode('/./.',$contenido);
                         $datos = $this->pedido->listar_comanda_por_mt($microtime);
@@ -947,6 +948,9 @@ class PedidoController
                                 $modelDSI->comanda_detalle_observacion = $celdas[5];
                                 $modelDSI->comanda_detalle_fecha_registro = $fecha;
                                 $modelDSI->comanda_detalle_estado = 1;
+                                if($celdas[7] == "SI"){
+                                    $imprimir ++;
+                                }
                                 $result = $this->pedido->guardar_detalle_comanda($modelDSI);
                             }
                         }
@@ -959,7 +963,9 @@ class PedidoController
                     $comanda = $this->pedido->listar_comanda_x_id($id_comanda);
                     $detalle_comanda =$this->pedido->listar_detalle_x_comanda($id_comanda);
                     $nombre_ticket = "Ticketera";
-                    require _VIEW_PATH_ . 'pedido/ticket_comanda.php';
+                    if($imprimir>0){
+                        require _VIEW_PATH_ . 'pedido/ticket_comanda.php';
+                    }
                     /*foreach ($detalle_comanda as $de){
                         $detalle = $this->pedido->listar_detalle_x_comanda_detalle($de->id_comanda_detalle);
                         if($detalle->id_grupo != 3){
@@ -1053,8 +1059,9 @@ class PedidoController
                         $comanda = $this->pedido->listar_comanda_x_id($id_comanda);
                         $detalle_comanda =$this->pedido->listar_detalle_x_comanda_x_fecha($id_comanda, $fecha);
                         $items_seleccionados = $_POST['impresion_check'];
-
-                        require _VIEW_PATH_ . 'pedido/ticket_comanda_check.php';
+                        if(!empty($_POST['impresion_check'])){
+                            require _VIEW_PATH_ . 'pedido/ticket_comanda_check.php';
+                        }
 
                         /*foreach ($detalle_comanda as $de){
                             $detalle = $this->pedido->listar_detalle_x_comanda_detalle($de->id_comanda_detalle);
